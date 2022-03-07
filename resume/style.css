@@ -41,7 +41,7 @@ html {
 	display: block;
 	text-align: center;
 	width: 60% minimum: 300px ;
-	border:  1px #33485e;
+	border-bottom:  1px solid #33485e;
 	margin: 0;
 
 }
