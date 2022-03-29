@@ -11,7 +11,7 @@ html {
 		font-size: 25px;
 		text-align: center;
 		text-transform: uppercase;
-		
+
 
 }
 
@@ -42,6 +42,15 @@ html {
 
 }
 
+#img1
+{
+	align-content: center;
+	font-style: italic;
+	font-size: 9px;
+	padding-right: 500px;
+
+}
+
 #pullquote {
 
 	font-family: Geogria;
@@ -57,6 +66,6 @@ html {
 
 #whole{
 	columns: 1;
-	columns: 30em;
+	columns: 200em;
 }
 
