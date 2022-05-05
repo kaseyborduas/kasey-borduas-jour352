@@ -32,6 +32,7 @@
 	border-right:  5px solid #d4cbfb;
 	border-left: 5px solid #d4cbfb;
 	border-bottom: 5px solid #e4848c;
+	border-top: 5px solid #e4848c;
 	margin: 0;
 }
 
@@ -66,11 +67,13 @@
 
 #pullquote{
 	font-family: 'Cormorant Garamond', serif;
+	color: #e47453;
+	font-weight: 400;
 	font-style: italic;
 	font-size: 40px;
 	text-align: center;
 	width: 60% minimum: 300px ;
-	border-top:  1px dashed #33485e;
+	border-top:  1px dashed #ccccfc;
 	margin: 0;
 }
 
