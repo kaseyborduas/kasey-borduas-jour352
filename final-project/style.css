@@ -1,0 +1,100 @@
+/* styles for my final project */
+
+#top{
+	width: 60% minimum: 300px ;
+	border-top:  10px solid #e47453;
+	margin: 0
+}
+
+#byline{
+		width: 60% minimum: 300px ;
+	border-bottom:  5px solid #eb4124;
+	margin: 0;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+#lfe{
+	font-family: 'Cormorant Garamond', serif;
+	font-size: 17px;
+	width: 60% minimum: 300px ;
+	border-bottom:  5px solid #eb4124;
+	margin: 0;
+	padding-top: 5px;
+	padding-bottom: 5px;
+
+}
+#body{
+	font-family: 'Cormorant Garamond', serif;
+	padding-right: 15px;
+	padding-left: 15px;
+}
+
+#h1{
+	font-family: 'Cormorant Garamond', serif;
+	font-style: bold, italic;
+	font-size: 50px;
+}
+
+#h2{
+	font-family: 'Cormorant Garamond', serif;
+	font-style:  italic;
+	font-size: 45px;
+}
+
+#h3{
+	font-family: 'Cormorant Garamond', serif;
+	font-size: 17px;
+}
+
+#h4{
+	font-family: 'Cormorant Garamond', serif;
+	font-style: italic;
+	font-size:  12px;
+	text-transform: uppercase;
+}
+
+#p{
+	font-family: 'Cormorant Garamond', serif;
+	font-size: 20px;
+}
+
+#pullquote{
+	font-family: 'Cormorant Garamond', serif;
+	font-style: italic;
+	font-size: 40px;
+	text-align: center;
+	width: 60% minimum: 300px ;
+	border-top:  1px dashed #33485e;
+	margin: 0;
+}
+
+#img{
+	font-family: 'Cormorant Garamond', serif;
+	font-size: 17px;
+	font-style: italic;
+	padding-bottom: 40px;
+	text-align: center;
+	display: block;
+	margin: 0 auto;
+
+}
+
+#nav{
+	font-family: 'Cormorant Garamond', serif;
+	font-size: 20px;
+	padding-top: 20px;
+}
+
+.row{
+	padding-right: 20px;
+	padding-top: 40px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+}
+
+#graphic{
+	padding-right: 50px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-left: 50px;
